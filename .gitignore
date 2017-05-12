@@ -50,3 +50,17 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# Ctag
+/tags
+
+# vim
+.*.swp
+.*.swo
+
+# bin
+/Debug/
+/Release/
+
+# HAL, CMSIS
+/Drivers/
